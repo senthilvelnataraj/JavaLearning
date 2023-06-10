@@ -19,7 +19,7 @@ public void addition(double a, double b, double c) {
 		// TODO Auto-generated method stub
 OverloadingExample example=new OverloadingExample();
 example.addition(5, 5);
-example.addition(0.06, 5);
+example.addition(0.07, 5);
 	}
 
 }
